@@ -6,7 +6,7 @@ use Drparham\SoapClient\Library\SoapLibrary;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 
-class SkeletonServiceProvider extends ServiceProvider
+class SoapClientServiceProvider extends ServiceProvider
 {
     /**
      * Indicates if loading of the provider is deferred.
